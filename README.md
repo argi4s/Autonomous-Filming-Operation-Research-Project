@@ -1,2 +1,3 @@
 # Autonomous-Filming-Operation-Research-Project
 This project was developed as part of the AENGM0073_2025_TB-1 Aerial Robotics 2025 assignment. The official title is: "Using Multiple UAVs for Filming Sport Events".
+The task of the assignment was to examine the usefulness of multiple UAVs in filming operations. Since it was one of the optional topics, it was enriched and transformed into conducting an operation, with the goal of capturing footage in the Monte Carlo Rally cup. Risk assessment, feasibility/equipment checks are examined. The reason behind the choice of the specific race, was for my personal benefit, since by the writing of this project the race had already taken place, thus enabling me to have all available data to plan even the smallest details.
